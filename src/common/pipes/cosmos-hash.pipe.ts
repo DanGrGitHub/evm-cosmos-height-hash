@@ -8,3 +8,4 @@ export class CosmosHashPipe implements PipeTransform<string, string> {
     return value.toUpperCase();
   }
 }
+ 
